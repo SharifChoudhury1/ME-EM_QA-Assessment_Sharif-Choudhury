@@ -1,0 +1,15 @@
+// timeouts.js
+
+// Timeouts to make sure the elements load on the page
+export const TIMEOUT = {
+  HALF_A_SECOND: 500,
+  ONE_SECOND: 1000,
+  ONE_AND_A_HALF_SECONDS: 1500,
+  TWO_SECONDS: 2000,
+  THREE_SECONDS: 3000,
+  FIVE_SECONDS: 5000,
+  TEN_SECONDS: 10000,
+  TWENTY_SECONDS: 20000,
+  SIXTY_SECONDS: 60000,
+  NINETY_SECONDS: 90000,
+};
